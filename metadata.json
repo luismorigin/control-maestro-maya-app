@@ -1,0 +1,6 @@
+{
+  "name": "Maya Bot Status",
+  "description": "An interface to monitor and control the status of the Maya bot.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
